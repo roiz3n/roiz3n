@@ -1,7 +1,7 @@
 ## Hi, I'm roiz3n 👋
 
 📱 Interested in root access and its concealment<br/>
-🖥 I use Arch, btw<br/>
+⌨️ I use Arch, btw<br/>
 
 
 # 💻 Tech Stack:
