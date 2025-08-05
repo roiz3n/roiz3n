@@ -1,7 +1,6 @@
 ## Hi, I'm roiz3n 👋
 
 📱 Interested in root access and its concealment<br/>
-📔 Familiar with Python, HTML, and some C<br/>
 ⌨️ I use Arch, btw<br/>
 
 
