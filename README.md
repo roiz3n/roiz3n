@@ -1,18 +1,33 @@
-## Hi, I'm roiz3n 👋
+#  roiz3n - бебебе
 
-👤 I'm just a guy who's interested in root access and hiding it<br/>
-📱 If u want, write to me on [Telegram](https://polyfauna.t.me)
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roiz3n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roiz3n&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roiz3n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> _я пидарасек_  
+> основной ЯП русский, но чуток хуева знаю (ну и похуй)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roiz3n&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Кто я такой?
+
+- бисексуал
+- пидарасек
+- фурриеб
+- ебучий вайбкодер
+---
+
+## Мой "лучший" проект (сделанный нейронкой)
+
+- [Мой сайт (ну и хуйня)](https://github.com/roiz3n/roiz3n.github.io)
+
+---
+
+## Как со мной связаться (нахуя?)
+
+- Telegram: [@polyfauna](https://t.me/polyfauna)
+- Если не отвечаю — значит жди
+
+---
+
+## Факты обо мне
+
+- эээээ ннууу типааа да
+- факт 2
+- факт 3
